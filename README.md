@@ -106,8 +106,10 @@ int main(void)
 
 
 ## Output  :
-![iot exp1 1](https://github.com/Prasanavausdevan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870579/232ce94a-ea85-4254-841f-bb4a270384cc)
-![iot exp 1 2](https://github.com/Prasanavausdevan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870579/7cc4743d-e57b-4299-a365-25e9fccd9547)
+![iot exp1 1](https://github.com/Prasanavausdevan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870579/1220ed90-d8be-4f2b-a3bb-5ed6a73ae473)
+![iot exp 1 2](https://github.com/Prasanavausdevan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870579/2897fb40-3d53-4c17-a810-4414d6da4079)
+
+
 
  
  
