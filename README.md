@@ -105,8 +105,9 @@ int main(void)
 ```
 
 ## Output  :
-![iot exp1 1](https://github.com/Prasanavausdevan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870579/1220ed90-d8be-4f2b-a3bb-5ed6a73ae473)
-![iot exp 1 2](https://github.com/Prasanavausdevan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870579/2897fb40-3d53-4c17-a810-4414d6da4079)
+![WhatsApp Image 2024-02-22 at 14 23 01_9a1c7304](https://github.com/Prasanavausdevan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870579/40e76490-2bbc-469c-85ce-cd86bff3ff48)
+![WhatsApp Image 2024-02-22 at 14 23 02_b2924efb](https://github.com/Prasanavausdevan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870579/f1356fde-ae0f-4993-b82e-5707bc6ad20f)
+
 
 
 
