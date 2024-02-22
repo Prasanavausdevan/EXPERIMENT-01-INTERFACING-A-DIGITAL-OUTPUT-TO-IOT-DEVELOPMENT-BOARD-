@@ -86,7 +86,7 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-#include "main.h"
+```#include "main.h"
 
 int main(void)
 {
@@ -100,7 +100,8 @@ int main(void)
 	HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
 	HAL_Delay(3000);
   }  
-} 
+}
+```
 
 
 
